@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T07:35:52.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.28" etag="Nok8j5xarqgzI6HaSZO7" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T07:55:08.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.28" etag="4ELuwiqTq7hJwSlZj87Y" version="20.3.0" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1302" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="1257a543d1cacc4b-9" value="WAN" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.veeam.2d.cloud;fontSize=14;align=center;" parent="1" vertex="1">
           <mxGeometry x="670" y="230" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1257a543d1cacc4b-52" value="iKuai" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="160" y="60" width="1420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BYh6js6m615-3mg1nOuH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;strokeWidth=4;" edge="1" parent="1" source="BYh6js6m615-3mg1nOuH-2" target="1257a543d1cacc4b-9">
           <mxGeometry relative="1" as="geometry" />
